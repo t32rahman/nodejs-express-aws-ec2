@@ -1,4 +1,3 @@
-#Courtesy of Felix Yu @Felix Yu on Youtube
 #!/bin/bash
 
 #download node and npm

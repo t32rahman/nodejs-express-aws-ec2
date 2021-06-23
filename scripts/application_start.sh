@@ -1,4 +1,3 @@
-# #Courtesy of Felix Yu @Felix Yu on Youtube
 # #!/bin/bash
 
 # #give permission for everything in the express-app directory
